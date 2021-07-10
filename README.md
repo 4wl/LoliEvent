@@ -9,11 +9,6 @@ public Listener<String> stringListener = event -> {
 ```
 
 # Gradle usage
-If you haven't already, add the `jitpack.io` maven repository to your build.gradle
-```groovy
-repositories {
-  maven { url = 'https://jitpack.io/' }
-}
 ```
 Next, add the dependency for this library, and also add TypeTools because this depends on it.
 ```groovy

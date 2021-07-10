@@ -1,6 +1,5 @@
 # LoliEvent
-Very similar to alpine, but like 20x more lightweight
-
+GAY!
 # How About!
 ```java
 @LoliEvent

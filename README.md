@@ -10,7 +10,6 @@ public Listener<String> stringListener = event -> {
 
 # Gradle usage
 ```
-Next, add the dependency for this library, and also add TypeTools because this depends on it.
 dependencies {
   compile 'ni.ai.loli:Loli:1.0'
   compile 'net.jodah:typetools:0.4.4'
